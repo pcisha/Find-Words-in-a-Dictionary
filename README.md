@@ -83,7 +83,7 @@ This `README.md` file includes a clear description of the problem and the approa
 time and space complexity analysis, and instructions on how to run the code.
 This should provide a comprehensive overview for anyone reviewing the repository.
 
-Author: Prachi Shah
+Author: Prachi Shah (https://www.linkedin.com/in/prachisshah)
 
 Date: August 7, 2024.
 
