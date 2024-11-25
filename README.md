@@ -1,3 +1,5 @@
+# Find Words in a Dictionary
+
 ***Objective:***
 
 Implement a function named `findWords` that accepts two arguments: 1) an input string and 2) a dictionary. This
@@ -83,9 +85,8 @@ This `README.md` file includes a clear description of the problem and the approa
 time and space complexity analysis, and instructions on how to run the code.
 This should provide a comprehensive overview for anyone reviewing the repository.
 
-Author: Prachi Shah (https://www.linkedin.com/in/prachisshah)
-
 Date: August 7, 2024.
 
-P.S. The default copyright laws apply.
+Author: Prachi Shah @ https://pcisha.my.canva.site/
 
+P.S. The default copyright laws apply.
