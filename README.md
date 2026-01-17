@@ -85,8 +85,8 @@ This `README.md` file includes a clear description of the problem and the approa
 time and space complexity analysis, and instructions on how to run the code.
 This should provide a comprehensive overview for anyone reviewing the repository.
 
-Date: August 7, 2024.
+Author: Prachi Shah @ https://www.linkedin.com/in/prachisms/
 
-Author: Prachi Shah @ https://pcisha.my.canva.site/
+Date: August 7, 2024.
 
 P.S. The default copyright laws apply.
